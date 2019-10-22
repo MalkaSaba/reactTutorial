@@ -1,3 +1,7 @@
+
+## Reason for Project
+I was interested in learing react and as part of the learing process, I followed the official react tutorial. This project was build as part of following the official react tutorial and creating tic tac toe applciation. Some obstacles were faced as part of the initial environment setup. After the environment setup was completed, the tutorial was followed successfully, and the tic tac toe game was completed. This tutorial helped me understand react in a much better way and helped me understand the importance of this JavaScript library in buidling user interafaces.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
